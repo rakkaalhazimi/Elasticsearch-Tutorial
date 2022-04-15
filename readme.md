@@ -1,3 +1,3 @@
 # Elasticsearch Tutorial
 List of views:
-- [basic](basic.md), establishing elasticsearch
+- [install](basic.md), establishing elasticsearch
